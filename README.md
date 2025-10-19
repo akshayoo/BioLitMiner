@@ -91,3 +91,11 @@ The script will fetch author metadata and emails, and save it as a CSV.
 
 License
 This repository is licensed under the MIT License.
+
+---------------------------------------------------------
+
+Contact
+Author: Akshay
+Email: akshayramesh543@gmail.com
+
+----------------------     ----------------------
